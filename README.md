@@ -3,4 +3,4 @@ Primeiro repósitorio do curso de Git e Git-Hub
 
 Repositorio criado durante uma aula ao vivo ( ou quase )
 
-Essa lonha eu alterei diretamente no Site!!
+Essa linha eu alterei diretamente no Site!!
